@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @SimonVillalonIT
 - 👀 I’m interested in be a FullStackDeveloper
-- 🌱 I’m currently learning ReactJS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning NestJS
 
 <!---
 SimonVillalonIT/SimonVillalonIT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
