@@ -9,7 +9,8 @@
 - 👀 I’m interested in be a Full Stack Developer
 - 🌱 I’m currently learning NestJS
 - 😎 Ask me about Javascript, PHP, MySQL, React, NextJS
-- 🌎 https://portfolio-beryl-five-21.vercel.app/
+- 🌎 Portfolio: https://portfolio-beryl-five-21.vercel.app/
+- 🏢 LinkedIn: www.linkedin.com/in/simon-villalon
 
 ---
 
