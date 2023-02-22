@@ -1,7 +1,7 @@
 <div id="header" align="center" >
   <img width="200" src="https://media.giphy.com/media/MdA16VIoXKKxNE8Stk/giphy.gif" />
   <h1 align="center"> Hi 👋, I’m @SimonVillalonIT</h1>
-  <p> I'm a passionate junior web developer eager to show what I'm capable of</p>
+  <p> I'm a passionate web developer eager to show what I'm capable of</p>
 </div>     
 
 ---
